@@ -15,7 +15,7 @@ The dashboard includes:
 ## 🖼 Dashboard Preview
 ![Dashboard 1](https://github.com/rakesh4407/Power-bi-dashboard/blob/main/Dashboard1.jpg)  
 ![Dashboard 2](https://github.com/rakesh4407/Power-bi-dashboard/blob/main/Dashboard2.jpg)  
-![Dashboard 3](screenshots/dashboard3.jpg)  
+![Dashboard 3](https://github.com/rakesh4407/Power-bi-dashboard/blob/main/Dashboard3.jpg)  
 
 ## 📄 Project Report
 [Download PDF](PowerBI_Project.pdf)
