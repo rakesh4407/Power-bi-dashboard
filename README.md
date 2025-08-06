@@ -18,7 +18,7 @@ The dashboard includes:
 ![Dashboard 3](https://github.com/rakesh4407/Power-bi-dashboard/blob/main/Dashboard3.jpg)  
 
 ## 📄 Project Report
-[Download PDF](PowerBI_Project.pdf)
+[Download PDF](https://github.com/rakesh4407/Power-bi-dashboard/blob/main/POWER%20BI%20DASHBOARD%20PROJECT.pdf)
 
 ## 📌 Conclusion
 This project showcases my skills in creating engaging, interactive dashboards using Power BI, delivering insights through clear and actionable visualizations.
