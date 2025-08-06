@@ -13,7 +13,7 @@ The dashboard includes:
 - **Table Chart** – Detailed records view.
 
 ## 🖼 Dashboard Preview
-![Dashboard 1](screenshots/dashboard1.jpg)  
+![Dashboard 1](https://github.com/rakesh4407/Power-bi-dashboard/blob/main/Dashboard1.jpg)  
 ![Dashboard 2](screenshots/dashboard2.jpg)  
 ![Dashboard 3](screenshots/dashboard3.jpg)  
 
